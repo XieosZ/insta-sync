@@ -1,0 +1,3 @@
+# Manually add shortcodes of recent posts from target account to prevent re-uploading
+# Example: ABC123DEF
+# Example: XYZ456UVW
